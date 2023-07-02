@@ -1,0 +1,23 @@
+Handle 0x0056, DMI type 17, 40 bytes
+Memory Device
+	Array Handle: 0x0051
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DIMM_D1
+	Bank Locator: NODE 1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 3200 MT/s
+	Manufacturer: Corsair
+	Serial Number: 00000000
+	Asset Tag:  
+	Part Number: CMK64GX4M4C3200C16  
+	Rank: 2
+	Configured Memory Speed: 3200 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
