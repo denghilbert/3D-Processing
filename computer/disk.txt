@@ -1,0 +1,12 @@
+  *-disk:0                  
+       description: ATA Disk
+       product: WDC WD40EFRX-68N
+       vendor: Western Digital
+       physical id: 0
+       bus info: scsi@0:0.0.0
+       logical name: /dev/sda
+       version: 0A82
+       serial: WD-WCC7K3PY8KJ8
+       size: 3726GiB (4TB)
+       capabilities: gpt-1.00 partitioned partitioned:gpt
+       configuration: ansiversion=5 guid=41a354a2-f0e7-40b0-96c2-a1f6b23fb80f logicalsectorsize=512 sectorsize=4096
